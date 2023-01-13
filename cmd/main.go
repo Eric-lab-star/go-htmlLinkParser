@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	htmlLinks "github.com/Eirc-lab-star/htmlLinkParser/pkg/htmlLinks"
+	"github.com/Eirc-lab-star/htmlLinkParser/pkg/htmlLinks"
 )
 
 var helloHTML string = `
