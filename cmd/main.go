@@ -11,7 +11,13 @@ var helloHTML string = `
 	<html>
 		<body>
 			<h1>Hello!</h1>
-			<a href="/other-page">A link to another page</a>
+			<a href="/first-page">A link to another page</a>
+			<span>
+				<a href="/second-page">A link to another page
+					<div>heelo</div>
+				</a>
+			</span>
+			
 		</body>
 	</html>
 `
